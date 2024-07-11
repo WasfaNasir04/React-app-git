@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .details-container {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .details-section {
+    margin-bottom: 10px;
+  }
+  
+  .details-section h2 {
+    margin-top: 0;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .details-section pre {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
+  
